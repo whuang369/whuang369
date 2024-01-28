@@ -1,4 +1,4 @@
-- 👋 Hi, I’m whuang369, you can call me Harry.
+- 👋 Hi, I’m whuang369, you can also call me Harry.
 - 👀 I’m interested in programming, algorithm contest, mathematics research, cello and piano playing, swimming and badminton, chinese calligraphy, Roman history.
 - 🌱 I’m currently learning mathematics and computer science as my majors.
 - 💞️ I’m looking to collaborate on algebraic geomentry and machine learning.
